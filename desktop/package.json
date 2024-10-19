@@ -1,9 +1,9 @@
 {
-  "name": "Incredibox",
+  "name": "Groovbox (Ocean Light PC Port)",
   "version": "1.0.1",
-  "description": "A music app that lets you create your own music with the help of a merry crew of beatboxers.",
+  "description": "A simple port of Oceanlight for PC Users!!",
   "main": "main.js",
-  "author": "So Far So Good",
+  "author": "Rizsim Studios",
   "license": "So Far So Good",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
