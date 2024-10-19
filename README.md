@@ -1,2 +1,1 @@
-# Modding
-Go to android or desktop based on what version you want to mod and read the README.md which contains a guide
+To find the assets find the folder named "desktop" to access them
