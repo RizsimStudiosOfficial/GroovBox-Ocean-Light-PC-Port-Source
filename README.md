@@ -1,4 +1,4 @@
-GroovBox Oceanlight Pc Port
+GroovBox Oceanlight PC Port
 Just a port of the apk version made by Incredibox Fan: https://www.youtube.com/watch?v=ajuLdQu74-Y
 and also forked SolsticeSpectrum's Incredibox source code to publish this one as it uses that source code for this port
 
