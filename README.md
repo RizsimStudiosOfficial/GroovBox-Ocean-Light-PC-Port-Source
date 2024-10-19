@@ -4,7 +4,7 @@ and also forked SolsticeSpectrum's Incredibox source code to publish this one as
 
 But there are known bugs like:
 1. WHEN RUNNING THE PORT THE ICONS ARE NOT ACCURATELY POSITIONED TO THE APK VERSION AT ALL
-2. ICONS ARE INVISIBLE WHEN PLAYING THE VERSION
+2. ICONS ARE INVISIBLE WHEN PLAYING THE VERSION (when exported)
 
 If you have solution to fix BOTH bugs put it in Pull Requests that's all
 
